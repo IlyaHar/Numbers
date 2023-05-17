@@ -1,0 +1,7 @@
+div {
+    font-size: 500px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
